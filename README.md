@@ -17,5 +17,5 @@ Users can:
 1. Open terminal / command prompt
 2. Run:
 
-# Author
+## Author
 Nisa AS
